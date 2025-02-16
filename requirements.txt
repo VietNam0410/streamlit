@@ -1,2 +1,7 @@
 streamlit
+pandas
+mlflow
+matplotlib
+seaborn
+scikit-learn
 mlflow
